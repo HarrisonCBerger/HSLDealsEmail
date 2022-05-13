@@ -1,0 +1,2 @@
+# HSLDealsEmail
+ HSL Deals Email
